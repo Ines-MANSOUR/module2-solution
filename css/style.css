@@ -1,7 +1,7 @@
 /* ---- Base Styles ----*/
 * {
   box-sizing: border-box;
-  color: #10150a;
+  color: #006d77;
   font-family: Trebuchet MS;
 }
 
@@ -40,18 +40,18 @@ b {
 }
 
 #chicken {
-  background-color: #f7b267;
-  border: 1px solid #f7b267;
+  background-color: #fec89a;
+  border: 1px solid #fec89a;
 }
 
 #beef {
-  background-color: #e76f51;
-  border: 1px solid #e76f51;
+  background-color: #deab90;
+  border: 1px solid #deab90;
 }
 
 #sushi {
-  background-color: #ffe5d9;
-  border: 1px solid #ffe5d9;
+  background-color: #cbc0d3;
+  border: 1px solid #cbc0d3;
 }
 
 /* ---- For Desktop ----*/
